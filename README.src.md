@@ -42,6 +42,14 @@ aoikdyndocdsl -s README.src.md -n aoikdyndocdsl.ext.all::nto -g README.md
 - [RequestHandlerWSGIServerTraceCallNotesPy2.txt](https://github.com/AoiKuiyuyou/AoikBottleStudy/blob/master/src/RequestHandlerWSGIServerTraceCallNotesPy2.txt?raw=True)
 - [RequestHandlerWSGIServerTraceCallNotesPy3.txt](https://github.com/AoiKuiyuyou/AoikBottleStudy/blob/master/src/RequestHandlerWSGIServerTraceCallNotesPy3.txt?raw=True)
 
+## AoikDjangoStudy
+[AoikDjangoStudy](https://github.com/AoiKuiyuyou/AoikDjangoStudy)
+- [RequestHandlerWSGIServerTraceCall.py](https://github.com/AoiKuiyuyou/AoikDjangoStudy/blob/master/src/RequestHandlerWSGIServerTraceCall.py)
+- [RequestHandlerWSGIServerTraceCallLogPy2.txt](https://github.com/AoiKuiyuyou/AoikDjangoStudy/blob/master/src/RequestHandlerWSGIServerTraceCallLogPy2.txt?raw=True)
+- [RequestHandlerWSGIServerTraceCallLogPy3.txt](https://github.com/AoiKuiyuyou/AoikDjangoStudy/blob/master/src/RequestHandlerWSGIServerTraceCallLogPy3.txt?raw=True)
+- [RequestHandlerWSGIServerTraceCallNotesPy2.txt](https://github.com/AoiKuiyuyou/AoikDjangoStudy/blob/master/src/RequestHandlerWSGIServerTraceCallNotesPy2.txt?raw=True)
+- [RequestHandlerWSGIServerTraceCallNotesPy3.txt](https://github.com/AoiKuiyuyou/AoikDjangoStudy/blob/master/src/RequestHandlerWSGIServerTraceCallNotesPy3.txt?raw=True)
+
 ## AoikFlaskStudy
 [AoikFlaskStudy](https://github.com/AoiKuiyuyou/AoikFlaskStudy)
 - [RequestHandlerWSGIServerTraceCall.py](https://github.com/AoiKuiyuyou/AoikFlaskStudy/blob/master/src/RequestHandlerWSGIServerTraceCall.py)

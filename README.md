@@ -6,6 +6,7 @@
 - [AoikHTTPServerStudy](#aoikhttpserverstudy)
 - [AoikWSGIRefStudy](#aoikwsgirefstudy)
 - [AoikBottleStudy](#aoikbottlestudy)
+- [AoikDjangoStudy](#aoikdjangostudy)
 - [AoikFlaskStudy](#aoikflaskstudy)
 - [AoikWebpyStudy](#aoikwebpystudy)
 - [AoikWs4pyStudy](#aoikws4pystudy)
@@ -41,6 +42,14 @@
 - [RequestHandlerWSGIServerTraceCallLogPy3.txt](https://github.com/AoiKuiyuyou/AoikBottleStudy/blob/master/src/RequestHandlerWSGIServerTraceCallLogPy3.txt?raw=True)
 - [RequestHandlerWSGIServerTraceCallNotesPy2.txt](https://github.com/AoiKuiyuyou/AoikBottleStudy/blob/master/src/RequestHandlerWSGIServerTraceCallNotesPy2.txt?raw=True)
 - [RequestHandlerWSGIServerTraceCallNotesPy3.txt](https://github.com/AoiKuiyuyou/AoikBottleStudy/blob/master/src/RequestHandlerWSGIServerTraceCallNotesPy3.txt?raw=True)
+
+## AoikDjangoStudy
+[AoikDjangoStudy](https://github.com/AoiKuiyuyou/AoikDjangoStudy)
+- [RequestHandlerWSGIServerTraceCall.py](https://github.com/AoiKuiyuyou/AoikDjangoStudy/blob/master/src/RequestHandlerWSGIServerTraceCall.py)
+- [RequestHandlerWSGIServerTraceCallLogPy2.txt](https://github.com/AoiKuiyuyou/AoikDjangoStudy/blob/master/src/RequestHandlerWSGIServerTraceCallLogPy2.txt?raw=True)
+- [RequestHandlerWSGIServerTraceCallLogPy3.txt](https://github.com/AoiKuiyuyou/AoikDjangoStudy/blob/master/src/RequestHandlerWSGIServerTraceCallLogPy3.txt?raw=True)
+- [RequestHandlerWSGIServerTraceCallNotesPy2.txt](https://github.com/AoiKuiyuyou/AoikDjangoStudy/blob/master/src/RequestHandlerWSGIServerTraceCallNotesPy2.txt?raw=True)
+- [RequestHandlerWSGIServerTraceCallNotesPy3.txt](https://github.com/AoiKuiyuyou/AoikDjangoStudy/blob/master/src/RequestHandlerWSGIServerTraceCallNotesPy3.txt?raw=True)
 
 ## AoikFlaskStudy
 [AoikFlaskStudy](https://github.com/AoiKuiyuyou/AoikFlaskStudy)
