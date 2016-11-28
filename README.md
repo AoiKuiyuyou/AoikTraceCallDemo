@@ -8,6 +8,7 @@
 - [AoikBottleStudy](#aoikbottlestudy)
 - [AoikDjangoStudy](#aoikdjangostudy)
 - [AoikFlaskStudy](#aoikflaskstudy)
+- [AoikTornadoStudy](#aoiktornadostudy)
 - [AoikWebpyStudy](#aoikwebpystudy)
 - [AoikWs4pyStudy](#aoikws4pystudy)
 
@@ -58,6 +59,14 @@
 - [RequestHandlerWSGIServerTraceCallLogPy3.txt](https://github.com/AoiKuiyuyou/AoikFlaskStudy/blob/master/src/RequestHandlerWSGIServerTraceCallLogPy3.txt?raw=True)
 - [RequestHandlerWSGIServerTraceCallNotesPy2.txt](https://github.com/AoiKuiyuyou/AoikFlaskStudy/blob/master/src/RequestHandlerWSGIServerTraceCallNotesPy2.txt?raw=True)
 - [RequestHandlerWSGIServerTraceCallNotesPy3.txt](https://github.com/AoiKuiyuyou/AoikFlaskStudy/blob/master/src/RequestHandlerWSGIServerTraceCallNotesPy3.txt?raw=True)
+
+## AoikTornadoStudy
+[AoikTornadoStudy](https://github.com/AoiKuiyuyou/AoikTornadoStudy)
+- [RequestHandlerIOLoopTraceCall.py](https://github.com/AoiKuiyuyou/AoikTornadoStudy/blob/master/src/RequestHandlerIOLoopTraceCall.py)
+- [RequestHandlerIOLoopTraceCallLogPy2.txt](https://github.com/AoiKuiyuyou/AoikTornadoStudy/blob/master/src/RequestHandlerIOLoopTraceCallLogPy2.txt?raw=True)
+- [RequestHandlerIOLoopTraceCallLogPy3.txt](https://github.com/AoiKuiyuyou/AoikTornadoStudy/blob/master/src/RequestHandlerIOLoopTraceCallLogPy3.txt?raw=True)
+- [RequestHandlerIOLoopTraceCallNotesPy2.txt](https://github.com/AoiKuiyuyou/AoikTornadoStudy/blob/master/src/RequestHandlerIOLoopTraceCallNotesPy2.txt?raw=True)
+- [RequestHandlerIOLoopTraceCallNotesPy3.txt](https://github.com/AoiKuiyuyou/AoikTornadoStudy/blob/master/src/RequestHandlerIOLoopTraceCallNotesPy3.txt?raw=True)
 
 ## AoikWebpyStudy
 [AoikWebpyStudy](https://github.com/AoiKuiyuyou/AoikWebpyStudy)
