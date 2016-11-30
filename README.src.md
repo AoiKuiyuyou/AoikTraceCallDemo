@@ -42,6 +42,22 @@ aoikdyndocdsl -s README.src.md -n aoikdyndocdsl.ext.all::nto -g README.md
 - [RequestHandlerWSGIServerTraceCallNotesPy2.txt](https://github.com/AoiKuiyuyou/AoikBottleStudy/blob/master/src/RequestHandlerWSGIServerTraceCallNotesPy2.txt?raw=True)
 - [RequestHandlerWSGIServerTraceCallNotesPy3.txt](https://github.com/AoiKuiyuyou/AoikBottleStudy/blob/master/src/RequestHandlerWSGIServerTraceCallNotesPy3.txt?raw=True)
 
+## AoikCherryPyStudy
+[AoikCherryPyStudy](https://github.com/AoiKuiyuyou/AoikCherryPyStudy)
+- [RequestHandlerCPWSGIServerTraceCall.py](https://github.com/AoiKuiyuyou/AoikCherryPyStudy/blob/master/src/RequestHandlerCPWSGIServerTraceCall.py)
+- [RequestHandlerCPWSGIServerTraceCallLogPy2.txt](https://github.com/AoiKuiyuyou/AoikCherryPyStudy/blob/master/src/RequestHandlerCPWSGIServerTraceCallLogPy2.txt?raw=True)
+- [RequestHandlerCPWSGIServerTraceCallLogPy2Thread0.txt](https://github.com/AoiKuiyuyou/AoikCherryPyStudy/blob/master/src/RequestHandlerCPWSGIServerTraceCallLogPy2Thread0.txt?raw=True)
+- [RequestHandlerCPWSGIServerTraceCallLogPy2Thread1.txt](https://github.com/AoiKuiyuyou/AoikCherryPyStudy/blob/master/src/RequestHandlerCPWSGIServerTraceCallLogPy2Thread1.txt?raw=True)
+- [RequestHandlerCPWSGIServerTraceCallLogPy2Thread2.txt](https://github.com/AoiKuiyuyou/AoikCherryPyStudy/blob/master/src/RequestHandlerCPWSGIServerTraceCallLogPy2Thread2.txt?raw=True)
+- [RequestHandlerCPWSGIServerTraceCallLogPy2Thread3.txt](https://github.com/AoiKuiyuyou/AoikCherryPyStudy/blob/master/src/RequestHandlerCPWSGIServerTraceCallLogPy2Thread3.txt?raw=True)
+- [RequestHandlerCPWSGIServerTraceCallLogPy3.txt](https://github.com/AoiKuiyuyou/AoikCherryPyStudy/blob/master/src/RequestHandlerCPWSGIServerTraceCallLogPy3.txt?raw=True)
+- [RequestHandlerCPWSGIServerTraceCallLogPy3Thread0.txt](https://github.com/AoiKuiyuyou/AoikCherryPyStudy/blob/master/src/RequestHandlerCPWSGIServerTraceCallLogPy3Thread0.txt?raw=True)
+- [RequestHandlerCPWSGIServerTraceCallLogPy3Thread1.txt](https://github.com/AoiKuiyuyou/AoikCherryPyStudy/blob/master/src/RequestHandlerCPWSGIServerTraceCallLogPy3Thread1.txt?raw=True)
+- [RequestHandlerCPWSGIServerTraceCallLogPy3Thread2.txt](https://github.com/AoiKuiyuyou/AoikCherryPyStudy/blob/master/src/RequestHandlerCPWSGIServerTraceCallLogPy3Thread2.txt?raw=True)
+- [RequestHandlerCPWSGIServerTraceCallLogPy3Thread3.txt](https://github.com/AoiKuiyuyou/AoikCherryPyStudy/blob/master/src/RequestHandlerCPWSGIServerTraceCallLogPy3Thread3.txt?raw=True)
+- [RequestHandlerCPWSGIServerTraceCallNotesPy2.txt](https://github.com/AoiKuiyuyou/AoikCherryPyStudy/blob/master/src/RequestHandlerCPWSGIServerTraceCallNotesPy2.txt?raw=True)
+- [RequestHandlerCPWSGIServerTraceCallNotesPy3.txt](https://github.com/AoiKuiyuyou/AoikCherryPyStudy/blob/master/src/RequestHandlerCPWSGIServerTraceCallNotesPy3.txt?raw=True)
+
 ## AoikDjangoStudy
 [AoikDjangoStudy](https://github.com/AoiKuiyuyou/AoikDjangoStudy)
 - [RequestHandlerWSGIServerTraceCall.py](https://github.com/AoiKuiyuyou/AoikDjangoStudy/blob/master/src/RequestHandlerWSGIServerTraceCall.py)
