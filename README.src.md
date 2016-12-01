@@ -93,3 +93,9 @@ aoikdyndocdsl -s README.src.md -n aoikdyndocdsl.ext.all::nto -g README.md
 - [WebSocketClientTraceCall.py](https://github.com/AoiKuiyuyou/AoikWs4pyStudy/blob/master/src/WebSocketClientTraceCall.py)
 - [WebSocketClientTraceCallLogPy3.txt](https://github.com/AoiKuiyuyou/AoikWs4pyStudy/blob/master/src/WebSocketClientTraceCallLogPy3.txt?raw=True)
 - [WebSocketClientTraceCallNotesPy3.txt](https://github.com/AoiKuiyuyou/AoikWs4pyStudy/blob/master/src/WebSocketClientTraceCallNotesPy3.txt?raw=True)
+
+## AoikAsyncioStudy
+[AoikAsyncioStudy](https://github.com/AoiKuiyuyou/AoikAsyncioStudy)
+- [EchoProtocolTraceCall.py](https://github.com/AoiKuiyuyou/AoikAsyncioStudy/blob/master/src/EchoProtocolTraceCall.py)
+- [EchoProtocolTraceCallLogPy3.txt](https://github.com/AoiKuiyuyou/AoikAsyncioStudy/blob/master/src/EchoProtocolTraceCallLogPy3.txt?raw=True)
+- [EchoProtocolTraceCallNotesPy3.txt](https://github.com/AoiKuiyuyou/AoikAsyncioStudy/blob/master/src/EchoProtocolTraceCallNotesPy3.txt?raw=True)
